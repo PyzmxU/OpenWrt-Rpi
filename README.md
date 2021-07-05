@@ -1,6 +1,6 @@
 修改  
-    WAN口DHCP  
-    X86_64 EXT4 适合VPS DD OPENWRT  
+      WAN口DHCP  
+      X86_64 EXT4 适合VPS DD OPENWRT  
 
 
 
