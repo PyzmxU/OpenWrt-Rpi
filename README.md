@@ -1,3 +1,9 @@
+修改WAN口DHCP 
+X86_64 EXT4 可是适合VPS DD OPENWRT
+
+
+
+
 <h1><center><b><a href="https://github.com/SuLingGG/OpenWrt-Rpi">OpenWrt-Rpi</a></b></center></h1>
 
 ## 快速通道
